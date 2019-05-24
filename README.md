@@ -22,3 +22,5 @@
 [其他](https://github.com/hmsjy2017/study/tree/master/%E5%85%B6%E4%BB%96)
 
 持续更新中...
+
+版权所有 请勿用于商业用途
