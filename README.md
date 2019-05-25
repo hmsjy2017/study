@@ -9,7 +9,7 @@
 
 [物理](https://github.com/hmsjy2017/study/tree/master/%E7%89%A9%E7%90%86)
 
-[政治](https://github.com/hmsjy2017/study/tree/master/%E8%AF%AD%E6%96%87)
+[政治](https://github.com/hmsjy2017/study/tree/master/%E6%94%BF%E6%B2%BB)
 
 [历史](https://github.com/hmsjy2017/study/tree/master/%E5%8E%86%E5%8F%B2)
 
